@@ -25,6 +25,7 @@ disqus:
 
 # Build settings
 markdown: kramdown
+remote_theme: jekyll-sleek
 highlighter: rouge # or pygments or null
 theme: cayman
 exclude:
