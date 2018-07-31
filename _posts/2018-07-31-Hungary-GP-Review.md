@@ -1,3 +1,9 @@
+---
+layout: post
+title: Hungary GP Review
+featured-img: sleek
+---
+
 ># 2018 Hungry GP - Race Review
 
 
