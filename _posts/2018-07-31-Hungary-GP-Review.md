@@ -4,7 +4,7 @@ title: Hungary GP Review
 featured-img: sleek
 ---
 
-># 2018 Hungry GP - Race Review
+# 2018 Hungry GP - Race Review
 
 
 
@@ -18,7 +18,7 @@ F1 전반기 마지막 경기인 헝가리 GP가 다가왔다. 리카도는 헝�
 
 
 
->## Practice 1~3
+## Practice 1~3
 
 
 
@@ -36,7 +36,7 @@ F1 전반기 마지막 경기인 헝가리 GP가 다가왔다. 리카도는 헝�
 
 
 
->## Qualifying
+## Qualifying
 
 
 
